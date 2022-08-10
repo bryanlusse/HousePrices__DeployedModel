@@ -69,7 +69,7 @@ General requirements:
 - [Docker](https://docs.docker.com/get-docker/)
 
 Model Requirements:
-- Found in [requirements.txt](https://github.com/bryanlusse/HousePrices__DeployedModel/blob/master/requirements.txt).
+- Found in [requirements.txt](https://github.com/bryanlusse/HousePrices__DeployedModel/blob/master/app/requirements.txt).
 
 ## :open_file_folder: Folder Structure
 
